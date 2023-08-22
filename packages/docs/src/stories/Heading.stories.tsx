@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { Meta, StoryObj } from "@storybook/react";
-import { Heading, HeadingProps } from "@ignite-ui/react";
+import { Heading, HeadingProps } from "@andradeleo-ignite-ui/react";
 
 export default {
 	title: "Typography/Heading",

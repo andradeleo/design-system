@@ -1,6 +1,11 @@
 /* eslint-disable prettier/prettier */
 import type { Meta, StoryObj } from "@storybook/react";
-import { Box, Text, TextInput, TextInputProps } from "@ignite-ui/react";
+import {
+	Box,
+	Text,
+	TextInput,
+	TextInputProps,
+} from "@andradeleo-ignite-ui/react";
 
 export default {
 	title: "Form/Text Input",
