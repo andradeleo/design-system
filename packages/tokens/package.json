@@ -1,6 +1,6 @@
 {
   "name": "@andradeleo-ignite-ui/tokens",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@andradeleo-ignite-ui/eslint-config" : "*",
-    "@andradeleo-ignite-ui/ts-config" : "*",
+    "@andradeleo-ignite-ui/eslint-config": "*",
+    "@andradeleo-ignite-ui/ts-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.1.6"
   }
